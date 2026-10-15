@@ -4,7 +4,7 @@ Permanent QR code hosting for VisionLink: every scan of a code printed on a busi
 
 ## My role
 
-Lead developer and the only engineer on the rebuild. I designed and built the Go scan service, the database and the dashboard, and ran the cutover from v1. VisionLink's co-founder handled planning and the business side.
+Lead developer and the only engineer on the rebuild. I designed and built the Go scan service, the database and the dashboard, and ran the cutover from v1. We planned it together, and VisionLink's co-founder handled the business side.
 
 ## Stack
 
